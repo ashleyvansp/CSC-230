@@ -1,5 +1,4 @@
 ; * Name: Ashley Van Spankeren
-; * Student Number: V00865956
 ; * CSC 230: Assignment 6, Part 1
 
 
