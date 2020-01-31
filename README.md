@@ -2,6 +2,8 @@
 Computer Architecture
 
 Concepts:
+* C
+* Assembly Language
 * CPU
 * Memory
 * Buses
